@@ -6,3 +6,8 @@ Under the details section of the documentation, the instructions to run the scri
 will get to fixing it.
 
 | ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | ----------- |
+
+# Converting a PDF file to a .mp3 file
+
+Need to run the following commands to install the dependencies
+== python -m pip install pyttsx ==
