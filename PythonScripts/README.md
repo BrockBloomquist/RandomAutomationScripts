@@ -5,4 +5,4 @@ name of the file. All files in this directory are Python with the .py extension 
 Under the details section of the documentation, the instructions to run the script are provided. If you have any issues leave an issue/problem on the repository and I
 will get to fixing it.
 
-| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | -----------
+| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | -----------| ----------- | ----------- |
